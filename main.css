@@ -6,6 +6,7 @@
 }
 
 body {
+    widht:100%;
     display:grid;
     margin: auto;
 }
