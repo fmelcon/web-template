@@ -62,7 +62,7 @@ body {
 
 .cajadiv {
     margin: 10px;
-    padding: 20px;
+    padding: 20px 2px;
 }
 
 .divisor {
@@ -144,7 +144,7 @@ body {
 
 .box {
     color: gray;
-
+    padding: 0px 15px;
     text-align: left;
     height: fit-content;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
