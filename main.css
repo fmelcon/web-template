@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    margin: auto;
+    margin: 0px 20%;
     max-width: 1000px;
     text-align: left;
     padding: 5px 5px;
@@ -34,6 +34,7 @@ body {
 }
 
 .menu ul {
+    text-align: center;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
